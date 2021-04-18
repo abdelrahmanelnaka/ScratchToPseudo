@@ -1,0 +1,97 @@
+If flag clicked == true 
+While (True) do 
+Move 1 Steps
+While keyFlag == false  then do 
+Change Y by 1 Steps
+Change X by 1 Steps
+If space
+then Go to coordinates (0,0)
+
+End
+
+
+
+If key down arrow is pressed then keyFlag == true
+End
+
+
+End
+
+End
+If up arrow
+thenTurn Left by 1 Degrees
+
+elseMove 1 Steps
+
+End
+Set Y value to -118
+Set X value to -175
+
+If Key pressed == space then 
+Say Hello!
+Delay for 1
+Say Bye for 2 seconds
+Delay for 1
+Think Hmm...
+While keyFlag == false  Delay 
+
+If key down arrow is pressed then keyFlag == true
+Think HMMM.. for 2 seconds
+for int i=0; i<2 i++
+Say Hello!
+
+End
+
+End
+
+
+End
+
+
+End
+
+
+End
+If flag clicked == true 
+If X position<50 
+then Say less than 50
+Delay for 1
+
+End
+
+
+End
+
+End
+If X position>50 
+then Say more than 50
+Delay for 1
+
+End
+
+
+End
+If X position==100 
+then Say is 100
+Delay for 1
+
+End
+
+
+End
+If X position==200  or X position==150  
+then Say 150 or 200
+Delay for 1
+
+End
+
+
+End
+If Not X position<150 
+then Say end
+Delay for 1
+
+End
+
+
+End
